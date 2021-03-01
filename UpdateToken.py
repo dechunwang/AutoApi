@@ -54,7 +54,7 @@ if os.getenv('TG_BOT') == ' ':
     other_config['tg_bot']=[]
     print('删除TG推送')
 gh_url=r'https://api.github.com/repos/'+gh_repo+r'/actions/secrets/'
-key_id='dechunwang'
+key_id='wangziyingwen'
 print('<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>')
 #微软refresh_token获取
 def getmstoken(appnum):
